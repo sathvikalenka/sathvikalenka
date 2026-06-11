@@ -140,7 +140,41 @@ React.js, Node.js, Express.js, MongoDB
 React.js, Node.js, Express.js, MongoDB
 
 ---
+## 💼 Job Portal
 
+🔗 **GitHub Repository:**  
+[Job Portal](https://github.com/sathvikalenka/JobPortal)
+
+### ✨ Key Achievements
+- User Registration & Login
+- JWT Authentication
+- Job Search Functionality
+- Apply for Jobs Feature
+- Recruiter Job Posting System
+- Responsive User Interface
+
+### 🛠 Tech Stack
+React.js, Node.js, Express.js, MongoDB
+
+---
+
+## 📝 Quiz Application
+
+🔗 **GitHub Repository:**  
+[Quiz Application](https://github.com/sathvikalenka/Quiz)
+
+### ✨ Key Achievements
+- Multiple Choice Questions
+- Score Calculation System
+- Timer-Based Quiz
+- Dynamic Question Management
+- Responsive User Interface
+- MongoDB Data Storage
+
+### 🛠 Tech Stack
+React.js, Node.js, Express.js, MongoDB
+
+---
 # 🧠 Key Strengths
 
 - Full Stack Web Development
