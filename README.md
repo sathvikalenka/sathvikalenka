@@ -14,7 +14,7 @@
 
 ## B.Tech — Computer Science Engineering
 **RGUKT IIIT Ongole**  
-CGPA: **9.1 / 10**
+CGPA: **9.2 / 10**
 
 ### 🏆 Achievements
 - Selected for **CodeAlpha Internship**
